@@ -1,0 +1,3 @@
+http://localhost/NextUcodBaseAgenda_versionPHP/client/index.html
+
+BASE DE DATOS "agenda.sql" CON MYSQL SIN CONTRASEÑA CON PHP

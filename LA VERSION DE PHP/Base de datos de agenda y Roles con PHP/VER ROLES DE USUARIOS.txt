@@ -1,0 +1,20 @@
+ID: 1
+NOMBRE: adrianpr919
+USUARIO: apr.1991lino@gmail.com
+CLAVE: 123
+----------------------------------------------
+ID: 2
+NOMBRE: mateo123
+USUARIO: mateo123@gmail.com
+CLAVE: 123
+----------------------------------------------
+ID: 3
+NOMBRE: lucas123
+USUARIO: lucas123@gmail.com
+CLAVE: 123
+---------------------------------------------
+ID: 4
+NOMBRE: Maria Teresa
+USUARIO: teresa@gmail.com
+CLAVE: 123
+
